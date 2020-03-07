@@ -8,33 +8,33 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/Sabakalsoom",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
+      "url": "https://www.facebook.com/Sabakalsoom",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashir.shoaeb/",
+      "url": "https://www.instagram.com/Sabakalsoom/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/Sabakalsoom/",
       "style": "socialicons"
     }
   ],
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashir.shoaeb",
+  "instaUsername": "iamsabakalsoom",
   "instaQuerry": "/?__a=1",
-  "aboutDev": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDev": " Developers Student Club, Lead at Google Developers, an aspiring computer vision Engineer and trainer getting started with opensource contribution. My goal is to create an impact by bridging the gap between academia & industry by solving local problems and improving user experience. ",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "Sabakalsoom",
   "gitHubQuerry": "/repos?sort=updated&direction=desc"
 }
